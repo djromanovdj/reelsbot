@@ -10,8 +10,8 @@ DEV_ID = 1236426944
 
 DATABASE_HOST = "localhost" #адресс базы данных
 DATABASE_PORT = "5432" 
-DATABASE_USER = "postgres" #логин юзера данных
+DATABASE_USER = "djromanovdj" #логин юзера данных
 DATABASE_PASS = "Rhjkbr9r" #пароль базы данных
-DATABASE_NAME = "postgres" #имя базы данных
+DATABASE_NAME = "db1" #имя базы данных
 
-DATABASE_URL = f"postgres://{DATABASE_USER}:{DATABASE_PASS}@{DATABASE_HOST}:5432/{DATABASE_NAME}" 
+DATABASE_URL = f"postgres://{djromanovdj}:{Rhjkbr9r}@{localhost}:5432/{db1}" 
